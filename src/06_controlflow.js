@@ -52,7 +52,7 @@ console.log("------------------");
 
 if(isJohnOlder)
 {
-   console.log("John ist älter.");  
+    console.log("John ist älter.");  
 } 
 else if(isJohnEqual)  // alternative Zweig
 {
