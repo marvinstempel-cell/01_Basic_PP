@@ -1,13 +1,13 @@
 /***** Erinnerung: Arrays *******/
 
-let arr;
+// let arr;
 // arr = ["Ich","bin","Max"];
 // output(arr);
 // output(arr[0]);
 // output("------------");
 
-// nested arrays - Prinzip: [[[]]]
-// nested arrays  - hier: [[],[]]
+// // nested arrays - Prinzip: [[[]]]
+// // nested arrays  - hier: [[],[]]
 // arr =   [
 //             ["Ich","bin","Max"],
 //             ["Ich","bin","Moritz"]
@@ -28,7 +28,11 @@ let arr;
 // }
 
 
+
 /***** Objekte 1 Daten/Funktionen *******/
+
+
+
 
 
 
