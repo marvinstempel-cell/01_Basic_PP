@@ -30,16 +30,16 @@
 
 /***** Objekte 1 Daten/Funktionen *******/
 
-// let person = {
-//                 firstName:"Yasin",
-//                 lastName: "Warsame",
-//                 salary: [120000, 160000],
-//                 permission: true,
-//                 sayHello: function(){return "Hallo"},
-//                 sayHello2:function () {
-//                    return "Hallo, ich bin " + this.firstName;
-//                 }
-// };
+let person = {
+                firstName:"Yasin",
+                lastName: "Warsame",
+                salary: [120000, 160000],
+                permission: true,
+                sayHello: function(){return "Hallo"},
+                sayHello2:function () {
+                   return "Hallo, ich bin " + this.firstName;
+                }
+};
 
 // // output(person);
 // output("---------------");
